@@ -1,6 +1,6 @@
 ## Overview
 
-This project analyzes the business and general aviation sector in India through interviews with key industry stakeholders, including CEOs, Heads of Operations, and other charter operator representatives. The analysis focuses on identifying the challenges, opportunities, and trends affecting the industry, including customer expectations, government policies, employee welfare, competitive advantage, and the impact of COVID-19.
+This project analyzes non-scheduled operators in aviation sector in India through interviews with key industry stakeholders, including CEOs, and Heads of Operations. The analysis focuses on identifying the challenges, opportunities, and trends affecting the industry, including customer expectations, government policies, employee welfare, competitive advantage, and the impact of COVID-19.
 
 Key methods employed in the analysis include:
 
